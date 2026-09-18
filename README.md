@@ -30,7 +30,7 @@
 ---
 ## Demo
 
-<img src="docs/boot.gif" width="400">
+![Boot Animation](docs/boot.gif)
 
 ---
 ## Features
