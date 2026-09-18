@@ -30,7 +30,7 @@
 ---
 ## Demo
 
-< img src="docs/boot.gif" width="400">
+<img src="docs/boot.gif" width="400">
 
 ---
 ## Features
