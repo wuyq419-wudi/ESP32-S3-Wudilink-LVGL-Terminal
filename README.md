@@ -28,7 +28,11 @@
 - LVGL GUI Framework
 
 ---
+## Demo
 
+< img src="docs/boot.gif" width="400">
+
+---
 ## Features
 
 ### 1. LVGL Graphical User Interface
